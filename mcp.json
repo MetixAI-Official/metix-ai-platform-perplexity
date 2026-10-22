@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "metix-ai-platform": {
+      "type": "streamable-http",
+      "url": "https://mira-api.metix.ai/mcp"
+    }
+  }
+}

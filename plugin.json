@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "metix-ai-platform",
+  "version": "1.0.1",
+  "description": "Search people, companies, and job postings on the Metix AI Platform. Connect your own account.",
+  "homepage": "https://platform.metix.ai",
+  "repository": "https://github.com/MetixAI-Official/metix-ai-platform-perplexity"
+}
